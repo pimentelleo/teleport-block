@@ -1,0 +1,3 @@
+name: TeleportBlockPlugin 
+main: com.example.teleportplugin.TeleportPlugin 
+version: 1.0
